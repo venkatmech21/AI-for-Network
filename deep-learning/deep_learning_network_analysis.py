@@ -14,7 +14,8 @@ Features:
 - Comprehensive evaluation and visualization
 - CPU-optimized performance
 
-Author: AI for Network Engineers Course
+Author: Vinit Jain
+AI for Network Engineers Course
 """
 
 import pandas as pd
