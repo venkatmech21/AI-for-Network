@@ -1,0 +1,45 @@
+{
+  "total_processed": 60150,
+  "valid_messages": 20777,
+  "invalid_messages": 0,
+  "duplicates_removed": 39373,
+  "malformed_timestamps": 0,
+  "invalid_priorities": 0,
+  "missing_hostnames": 0,
+  "normalized_ips": 17302,
+  "extracted_fields": {
+    "as_number": 926,
+    "bgp_peer": 926,
+    "destination_ip": 6565,
+    "destination_port": 9377,
+    "interface": 6362,
+    "ospf_area": 511,
+    "protocol": 4721,
+    "source_ip": 17302,
+    "threat_name": 2339,
+    "username": 4777
+  },
+  "device_type_stats": {
+    "cisco": 9412,
+    "juniper": 5166,
+    "paloalto": 6199
+  },
+  "event_category_stats": {
+    "authentication": 8292,
+    "network": 4624,
+    "other": 36,
+    "security": 5566,
+    "system": 2259
+  },
+  "severity_stats": {
+    "Alert": 1616,
+    "Critical": 4446,
+    "Error": 1471,
+    "Info": 6371,
+    "Notice": 1459,
+    "Warning": 5414
+  },
+  "processing_start_time": "2025-08-21T20:19:11.859146591+05:30",
+  "processing_end_time": "2025-08-21T20:19:28.126724482+05:30",
+  "processing_duration": 16267577891
+}

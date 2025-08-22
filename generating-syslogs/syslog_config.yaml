@@ -1,0 +1,32 @@
+# Syslog Generator Configuration
+# Device counts for message generation
+cisco_iosxe_count: 10000
+palo_alto_count: 10000
+juniper_count: 10000
+
+# Output settings
+output_format: rfc3164  # rfc3164 or rfc5424
+output_directory: ./syslog_output/
+separate_files: true    # Create separate files per device type
+
+# Real-time generation settings
+real_time_mode: false
+messages_per_second: 10
+duration_minutes: 60
+
+# Remote syslog server (optional)
+syslog_server: ""       # Example: "192.168.1.100:514"
+send_to_server: false
+
+# Event distribution percentages
+event_distribution:
+  login_events: 15
+  bgp_flap_events: 5
+  ospf_flap_events: 5
+  latency_events: 10
+  security_events: 15
+  tcp_attack_events: 8
+  interface_events: 12
+  system_events: 20
+  routing_events: 7
+  vpn_events: 3

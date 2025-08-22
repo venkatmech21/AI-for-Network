@@ -1,0 +1,1 @@
+id,timestamp,normalized_time,facility,severity,severity_name,priority,hostname,program,pid,message,device_type,event_category,event_subcategory,source_ip,destination_ip,source_port,destination_port,protocol,username,interface,threat_name,bgp_peer,as_number,ospf_area,risk_score,is_security,is_authentication,is_network_event,is_system_event,data_quality_issues

@@ -1,0 +1,47 @@
+Syslog Data Cleaning Report
+=============================
+
+Processing Summary:
+- Total messages processed: 60150
+- Valid messages: 20777
+- Invalid messages: 0
+- Duplicates removed: 39373
+- Processing time: 16.267577891s
+
+Data Quality Issues:
+- Malformed timestamps: 0
+- Invalid priorities: 0
+- Missing hostnames: 0
+- Normalized IP addresses: 17302
+
+Device Type Distribution:
+- cisco: 9412 (45.3%)
+- juniper: 5166 (24.9%)
+- paloalto: 6199 (29.8%)
+
+Event Category Distribution:
+- authentication: 8292 (39.9%)
+- system: 2259 (10.9%)
+- security: 5566 (26.8%)
+- network: 4624 (22.3%)
+- other: 36 (0.2%)
+
+Severity Distribution:
+- Info: 6371 (30.7%)
+- Warning: 5414 (26.1%)
+- Error: 1471 (7.1%)
+- Notice: 1459 (7.0%)
+- Critical: 4446 (21.4%)
+- Alert: 1616 (7.8%)
+
+Extracted Fields:
+- destination_port: 9377 (45.1%)
+- interface: 6362 (30.6%)
+- source_ip: 17302 (83.3%)
+- protocol: 4721 (22.7%)
+- destination_ip: 6565 (31.6%)
+- bgp_peer: 926 (4.5%)
+- as_number: 926 (4.5%)
+- threat_name: 2339 (11.3%)
+- username: 4777 (23.0%)
+- ospf_area: 511 (2.5%)

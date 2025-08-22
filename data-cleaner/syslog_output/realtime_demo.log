@@ -1,0 +1,150 @@
+<132>Aug 21 20:14:47 DIST-SW-01 IPSLA[3034]: IPSLA-6-PROBE_LATENCY: RTT probe to 203.0.113.18 exceeded threshold: 381ms (threshold: 100ms)
+<134>Aug 21 20:14:47 MPLS-PE-02 SYS[9927]: SYS-6-CPU_USAGE: CPU utilization for 5 seconds: 81%; one minute: 76%; five minutes: 71%
+<130>Aug 21 20:14:47 CORE-RTR-02 SEC_LOGIN[14414]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 9.9.9.214, 13 failed attempts
+<132>Aug 21 20:14:47 EDGE-RTR-02 OSPF[16223]: OSPF-5-ADJCHG: Process 1, Nbr 10.10.1.227 on GigabitEthernet0/0/0 from FULL to DOWN, Neighbor Down: Dead timer expired
+<132>Aug 21 20:14:48 WAN-RTR-01 IPSLA[26896]: IPSLA-6-PROBE_LATENCY: RTT probe to 172.16.1.243 exceeded threshold: 133ms (threshold: 100ms)
+<129>Aug 21 20:14:48 EDGE-RTR-01 FIREWALL[5106]: FIREWALL-1-ATTACK_DETECTED: HTTP flood detected from 192.168.100.223 to 10.0.1.88:22
+<134>Aug 21 20:14:48 CORE-RTR-01 SYS[17909]: SYS-6-MEM_USAGE: Memory utilization: 88% used
+<130>Aug 21 20:14:48 ACCESS-SW-01 SEC_LOGIN[7951]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 172.16.10.237, 5 failed attempts
+<134>Aug 21 20:14:48 DIST-SW-02 SYS[18524]: SYS-6-MEM_USAGE: Memory utilization: 90% used
+<134>Aug 21 20:14:49 WAN-RTR-02 SYSTEM[30990]: Unknown event type
+<134>Aug 21 20:14:49 MPLS-PE-01 SYS[4347]: SYS-6-CPU_USAGE: CPU utilization for 5 seconds: 60%; one minute: 55%; five minutes: 50%
+<134>Aug 21 20:14:49 WAN-RTR-02 SYSTEM[13899]: Unknown event type
+<134>Aug 21 20:14:49 DIST-SW-02 SYSTEM[13274]: Unknown event type
+<130>Aug 21 20:14:49 CORE-RTR-02 SEC_LOGIN[25467]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 172.31.1.218, 10 failed attempts
+<129>Aug 21 20:14:50 CORE-RTR-01 FIREWALL[25397]: FIREWALL-1-ATTACK_DETECTED: SYN flood detected from 192.168.100.54 to 172.16.1.223:3306
+<130>Aug 21 20:14:50 WAN-RTR-02 SEC_LOGIN[28101]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 10.10.1.18, 11 failed attempts
+<131>Aug 21 20:14:50 EDGE-RTR-01 BGP[30640]: BGP-5-ADJCHANGE: neighbor 203.0.113.1 (AS1273) Up
+<130>Aug 21 20:14:50 DIST-SW-01 SEC_LOGIN[21090]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 1.1.1.43, 7 failed attempts
+<131>Aug 21 20:14:50 MPLS-PE-02 LINEPROTO[21582]: LINEPROTO-5-UPDOWN: Line protocol on Interface Tunnel0, changed state to up
+<134>Aug 21 20:14:51 EDGE-RTR-01 SYSTEM[26876]: Unknown event type
+<134>Aug 21 20:14:51 EDGE-RTR-01 SYS[30790]: SYS-6-MEM_USAGE: Memory utilization: 80% used
+<134>Aug 21 20:14:51 EDGE-RTR-02 SYSTEM[7046]: Unknown event type
+<133>Aug 21 20:14:51 MPLS-PE-02 ROUTING[3092]: ROUTING-5-ROUTE_CHANGE: Route 10.10.1.0/24 via 172.31.1.30 added to routing table
+<134>Aug 21 20:14:51 WAN-RTR-01 SYS[29827]: SYS-6-CPU_USAGE: CPU utilization for 5 seconds: 65%; one minute: 60%; five minutes: 55%
+<130>Aug 21 20:14:52 MPLS-PE-02 SEC_LOGIN[26211]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 9.9.9.120, 10 failed attempts
+<134>Aug 21 20:14:52 WAN-RTR-02 SYSTEM[24377]: Unknown event type
+<131>Aug 21 20:14:52 DIST-SW-01 LINEPROTO[24652]: LINEPROTO-5-UPDOWN: Line protocol on Interface Vlan10, changed state to up
+<134>Aug 21 20:14:52 MPLS-PE-01 SSH2[10700]: SSH2_SESSION: SSH2 Session request from 8.8.8.212 (tty = 0) using crypto cipher 'aes256-ctr', hmac 'hmac-sha2-256' Succeeded for user 'malware'
+<133>Aug 21 20:14:52 EDGE-RTR-02 ROUTING[12228]: ROUTING-5-ROUTE_CHANGE: Route 198.51.100.0/24 via 192.168.10.16 added to routing table
+<132>Aug 21 20:14:53 DIST-SW-01 OSPF[16404]: OSPF-5-ADJCHG: Process 1, Nbr 172.31.1.238 on GigabitEthernet0/0/0 from LOADING to FULL, Loading Done
+<133>Aug 21 20:14:53 DIST-SW-01 ROUTING[28021]: ROUTING-5-ROUTE_CHANGE: Route 192.168.100.0/24 via 8.8.8.185 added to routing table
+<131>Aug 21 20:14:53 DIST-SW-02 BGP[19114]: BGP-5-ADJCHANGE: neighbor 203.0.113.2 (AS174) Up
+<130>Aug 21 20:14:53 WAN-RTR-01 SEC_LOGIN[23579]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 198.51.100.171, 14 failed attempts
+<131>Aug 21 20:14:53 ACCESS-SW-01 LINEPROTO[26923]: LINEPROTO-5-UPDOWN: Line protocol on Interface TenGigabitEthernet0/0/0, changed state to up
+<132>Aug 21 20:14:54 EDGE-RTR-01 OSPF[7059]: OSPF-5-ADJCHG: Process 1, Nbr 172.16.10.196 on GigabitEthernet0/0/0 from FULL to DOWN, Neighbor Down: Dead timer expired
+<131>Aug 21 20:14:54 CORE-RTR-01 LINEPROTO[23636]: LINEPROTO-5-UPDOWN: Line protocol on Interface Loopback1, changed state to up
+<132>Aug 21 20:14:54 MPLS-PE-01 OSPF[6227]: OSPF-5-ADJCHG: Process 1, Nbr 172.16.10.75 on GigabitEthernet0/0/0 from FULL to DOWN, Neighbor Down: Dead timer expired
+<134>Aug 21 20:14:54 DIST-SW-01 SSH2[12476]: SSH2_SESSION: SSH2 Session request from 172.16.10.165 (tty = 0) using crypto cipher 'aes256-ctr', hmac 'hmac-sha2-256' Succeeded for user 'malware'
+<131>Aug 21 20:14:54 EDGE-RTR-02 BGP[27576]: BGP-5-ADJCHANGE: neighbor 198.51.100.2 (AS64517) Up
+<134>Aug 21 20:14:55 ACCESS-SW-02 SYSTEM[11115]: Unknown event type
+<130>Aug 21 20:14:55 WAN-RTR-01 SEC_LOGIN[11794]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 192.168.10.75, 5 failed attempts
+<130>Aug 21 20:14:55 WAN-RTR-01 SEC_LOGIN[1528]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 198.51.100.48, 10 failed attempts
+<129>Aug 21 20:14:55 EDGE-RTR-01 FIREWALL[10028]: FIREWALL-1-ATTACK_DETECTED: malware communication detected from 1.1.1.215 to 10.10.1.118:5432
+<134>Aug 21 20:14:55 EDGE-RTR-02 SYS[2026]: SYS-6-CPU_USAGE: CPU utilization for 5 seconds: 93%; one minute: 88%; five minutes: 83%
+<131>Aug 21 20:14:56 ACCESS-SW-01 LINEPROTO[14579]: LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/0/0, changed state to up
+<130>Aug 21 20:14:56 WAN-RTR-02 SEC_LOGIN[26913]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 172.16.10.100, 10 failed attempts
+<134>Aug 21 20:14:56 MPLS-PE-01 SYSTEM[1572]: Unknown event type
+<132>Aug 21 20:14:56 MPLS-PE-02 IPSLA[6510]: IPSLA-6-PROBE_LATENCY: RTT probe to 172.16.10.37 exceeded threshold: 358ms (threshold: 100ms)
+<132>Aug 21 20:14:56 DIST-SW-02 SSH2[28227]: SSH2_SESSION: SSH2 Session request from 203.0.113.168 (tty = 0) using crypto cipher 'aes256-ctr', hmac 'hmac-sha2-256' Failed for user 'mike.wilson'
+<131>Aug 21 20:14:57 EDGE-RTR-02 BGP[10096]: BGP-5-ADJCHANGE: neighbor 198.51.100.1 (AS64514) Up
+<131>Aug 21 20:14:57 ACCESS-SW-02 LINEPROTO[10219]: LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/0/1, changed state to up
+<132>Aug 21 20:14:57 EDGE-RTR-02 IPSLA[10816]: IPSLA-6-PROBE_LATENCY: RTT probe to 172.16.1.201 exceeded threshold: 565ms (threshold: 100ms)
+<132>Aug 21 20:14:57 CORE-RTR-02 OSPF[26943]: OSPF-5-ADJCHG: Process 1, Nbr 192.168.100.20 on GigabitEthernet0/0/0 from FULL to DOWN, Neighbor Down: Dead timer expired
+<134>Aug 21 20:14:57 DIST-SW-01 SYSTEM[26940]: Unknown event type
+<134>Aug 21 20:14:58 DIST-SW-01 SYSTEM[8064]: Unknown event type
+<129>Aug 21 20:14:58 CORE-RTR-01 FIREWALL[11706]: FIREWALL-1-ATTACK_DETECTED: UDP flood detected from 172.31.1.140 to 203.0.113.244:5432
+<131>Aug 21 20:14:58 WAN-RTR-01 BGP[23870]: BGP-3-NOTIFICATION_SENT: sent to neighbor 8.8.8.8 (AS64514) 4/0 (hold time expired) 0 bytes
+<132>Aug 21 20:14:58 CORE-RTR-02 OSPF[1925]: OSPF-5-ADJCHG: Process 1, Nbr 8.8.8.108 on GigabitEthernet0/0/0 from LOADING to FULL, Loading Done
+<133>Aug 21 20:14:58 WAN-RTR-02 ROUTING[30123]: ROUTING-5-ROUTE_CHANGE: Route 9.9.9.0/24 via 198.51.100.90 added to routing table
+<130>Aug 21 20:14:59 WAN-RTR-02 SEC_LOGIN[30534]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 198.51.100.30, 13 failed attempts
+<133>Aug 21 20:14:59 MPLS-PE-02 ROUTING[18727]: ROUTING-5-ROUTE_CHANGE: Route 192.168.100.0/24 via 1.1.1.18 added to routing table
+<132>Aug 21 20:14:59 DIST-SW-01 SSH2[28644]: SSH2_SESSION: SSH2 Session request from 10.10.1.158 (tty = 0) using crypto cipher 'aes256-ctr', hmac 'hmac-sha2-256' Failed for user 'netadmin'
+<134>Aug 21 20:14:59 EDGE-RTR-01 SYSTEM[24855]: Unknown event type
+<134>Aug 21 20:14:59 MPLS-PE-01 SSH2[30175]: SSH2_SESSION: SSH2 Session request from 10.0.1.168 (tty = 0) using crypto cipher 'aes256-ctr', hmac 'hmac-sha2-256' Succeeded for user 'admin'
+<134>Aug 21 20:15:00 WAN-RTR-01 SYS[11199]: SYS-6-CPU_USAGE: CPU utilization for 5 seconds: 97%; one minute: 92%; five minutes: 87%
+<133>Aug 21 20:15:00 EDGE-RTR-02 ROUTING[22581]: ROUTING-5-ROUTE_CHANGE: Route 1.1.1.0/24 via 203.0.113.145 added to routing table
+<134>Aug 21 20:15:00 MPLS-PE-01 SYS[11635]: SYS-6-CPU_USAGE: CPU utilization for 5 seconds: 65%; one minute: 60%; five minutes: 55%
+<130>Aug 21 20:15:00 ACCESS-SW-01 SEC_LOGIN[20562]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 8.8.8.9, 10 failed attempts
+<132>Aug 21 20:15:00 CORE-RTR-02 OSPF[9514]: OSPF-5-ADJCHG: Process 1, Nbr 10.10.1.114 on GigabitEthernet0/0/0 from LOADING to FULL, Loading Done
+<134>Aug 21 20:15:01 MPLS-PE-02 SYS[11937]: SYS-6-CPU_USAGE: CPU utilization for 5 seconds: 99%; one minute: 94%; five minutes: 89%
+<134>Aug 21 20:15:01 WAN-RTR-01 SSH2[16746]: SSH2_SESSION: SSH2 Session request from 198.51.100.68 (tty = 0) using crypto cipher 'aes256-ctr', hmac 'hmac-sha2-256' Succeeded for user 'netadmin'
+<134>Aug 21 20:15:01 EDGE-RTR-01 SSH2[18092]: SSH2_SESSION: SSH2 Session request from 4.4.4.50 (tty = 0) using crypto cipher 'aes256-ctr', hmac 'hmac-sha2-256' Succeeded for user 'attacker'
+<130>Aug 21 20:15:01 MPLS-PE-02 SEC_LOGIN[27606]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 172.16.10.28, 13 failed attempts
+<133>Aug 21 20:15:01 ACCESS-SW-02 ROUTING[8764]: ROUTING-5-ROUTE_CHANGE: Route 203.0.113.0/24 via 9.9.9.124 added to routing table
+<134>Aug 21 20:15:02 ACCESS-SW-02 SYS[5221]: SYS-6-CPU_USAGE: CPU utilization for 5 seconds: 94%; one minute: 89%; five minutes: 84%
+<132>Aug 21 20:15:02 CORE-RTR-01 IPSLA[27336]: IPSLA-6-PROBE_LATENCY: RTT probe to 8.8.8.233 exceeded threshold: 114ms (threshold: 100ms)
+<132>Aug 21 20:15:02 MPLS-PE-02 IPSLA[18715]: IPSLA-6-PROBE_LATENCY: RTT probe to 192.168.1.112 exceeded threshold: 258ms (threshold: 100ms)
+<131>Aug 21 20:15:02 MPLS-PE-02 LINEPROTO[25806]: LINEPROTO-5-UPDOWN: Line protocol on Interface TenGigabitEthernet0/0/0, changed state to up
+<134>Aug 21 20:15:02 WAN-RTR-01 SYS[3762]: SYS-6-MEM_USAGE: Memory utilization: 70% used
+<130>Aug 21 20:15:03 CORE-RTR-02 SEC_LOGIN[18732]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 192.168.100.235, 6 failed attempts
+<132>Aug 21 20:15:03 MPLS-PE-02 IPSLA[20596]: IPSLA-6-PROBE_LATENCY: RTT probe to 172.31.1.228 exceeded threshold: 123ms (threshold: 100ms)
+<132>Aug 21 20:15:03 MPLS-PE-01 OSPF[28112]: OSPF-5-ADJCHG: Process 1, Nbr 198.51.100.241 on GigabitEthernet0/0/0 from FULL to DOWN, Neighbor Down: Dead timer expired
+<132>Aug 21 20:15:03 MPLS-PE-01 IPSLA[25662]: IPSLA-6-PROBE_LATENCY: RTT probe to 172.16.1.21 exceeded threshold: 331ms (threshold: 100ms)
+<134>Aug 21 20:15:03 DIST-SW-02 SSH2[25330]: SSH2_SESSION: SSH2 Session request from 8.8.8.129 (tty = 0) using crypto cipher 'aes256-ctr', hmac 'hmac-sha2-256' Succeeded for user 'backup'
+<134>Aug 21 20:15:04 CORE-RTR-02 SYS[4739]: SYS-6-MEM_USAGE: Memory utilization: 87% used
+<134>Aug 21 20:15:04 DIST-SW-02 SYSTEM[17425]: Unknown event type
+<130>Aug 21 20:15:04 CORE-RTR-02 SEC_LOGIN[22776]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 1.1.1.241, 6 failed attempts
+<133>Aug 21 20:15:04 ACCESS-SW-02 ROUTING[22663]: ROUTING-5-ROUTE_CHANGE: Route 172.16.10.0/24 via 203.0.113.188 added to routing table
+<133>Aug 21 20:15:04 CORE-RTR-02 ROUTING[29709]: ROUTING-5-ROUTE_CHANGE: Route 4.4.4.0/24 via 192.168.10.230 added to routing table
+<130>Aug 21 20:15:05 MPLS-PE-02 SEC_LOGIN[13006]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 192.168.10.220, 9 failed attempts
+<134>Aug 21 20:15:05 WAN-RTR-01 SYS[26051]: SYS-6-MEM_USAGE: Memory utilization: 83% used
+<133>Aug 21 20:15:05 WAN-RTR-02 ROUTING[1165]: ROUTING-5-ROUTE_CHANGE: Route 172.16.10.0/24 via 192.168.100.67 added to routing table
+<131>Aug 21 20:15:05 WAN-RTR-01 LINEPROTO[6389]: LINEPROTO-5-UPDOWN: Line protocol on Interface Vlan10, changed state to down
+<129>Aug 21 20:15:05 ACCESS-SW-02 FIREWALL[9817]: FIREWALL-1-ATTACK_DETECTED: HTTP flood detected from 10.0.10.95 to 8.8.8.93:5601
+<131>Aug 21 20:15:06 CORE-RTR-01 BGP[5924]: BGP-3-NOTIFICATION_SENT: sent to neighbor 8.8.8.8 (AS64518) 4/0 (hold time expired) 0 bytes
+<131>Aug 21 20:15:06 EDGE-RTR-01 LINEPROTO[10397]: LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/0/1, changed state to down
+<132>Aug 21 20:15:06 ACCESS-SW-02 OSPF[4239]: OSPF-5-ADJCHG: Process 1, Nbr 192.168.1.171 on GigabitEthernet0/0/0 from FULL to DOWN, Neighbor Down: Dead timer expired
+<130>Aug 21 20:15:06 MPLS-PE-02 SEC_LOGIN[15809]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 10.10.1.34, 12 failed attempts
+<132>Aug 21 20:15:06 DIST-SW-02 OSPF[2403]: OSPF-5-ADJCHG: Process 1, Nbr 172.16.10.21 on GigabitEthernet0/0/0 from LOADING to FULL, Loading Done
+<130>Aug 21 20:15:07 EDGE-RTR-02 SEC_LOGIN[16562]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 4.4.4.179, 14 failed attempts
+<134>Aug 21 20:15:07 DIST-SW-01 SYSTEM[24921]: Unknown event type
+<129>Aug 21 20:15:07 WAN-RTR-02 FIREWALL[22175]: FIREWALL-1-ATTACK_DETECTED: brute force detected from 1.1.1.3 to 172.31.1.219:22
+<132>Aug 21 20:15:07 EDGE-RTR-01 OSPF[12839]: OSPF-5-ADJCHG: Process 1, Nbr 172.16.1.221 on GigabitEthernet0/0/0 from FULL to DOWN, Neighbor Down: Dead timer expired
+<134>Aug 21 20:15:07 ACCESS-SW-02 SYSTEM[10679]: Unknown event type
+<134>Aug 21 20:15:08 DIST-SW-02 SYSTEM[7535]: Unknown event type
+<131>Aug 21 20:15:08 CORE-RTR-01 BGP[18743]: BGP-3-NOTIFICATION_SENT: sent to neighbor 203.0.113.2 (AS64520) 4/0 (hold time expired) 0 bytes
+<131>Aug 21 20:15:08 EDGE-RTR-02 BGP[26652]: BGP-5-ADJCHANGE: neighbor 9.9.9.9 (AS1299) Up
+<134>Aug 21 20:15:08 WAN-RTR-02 SYSTEM[12204]: Unknown event type
+<129>Aug 21 20:15:08 WAN-RTR-01 FIREWALL[8032]: FIREWALL-1-ATTACK_DETECTED: botnet C&C detected from 192.168.100.254 to 198.51.100.122:8443
+<134>Aug 21 20:15:09 CORE-RTR-01 SYSTEM[29064]: Unknown event type
+<134>Aug 21 20:15:09 WAN-RTR-02 SSH2[6937]: SSH2_SESSION: SSH2 Session request from 4.4.4.210 (tty = 0) using crypto cipher 'aes256-ctr', hmac 'hmac-sha2-256' Succeeded for user 'john.doe'
+<131>Aug 21 20:15:09 EDGE-RTR-01 LINEPROTO[11154]: LINEPROTO-5-UPDOWN: Line protocol on Interface Tunnel1, changed state to up
+<130>Aug 21 20:15:09 ACCESS-SW-02 SEC_LOGIN[20698]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 4.4.4.65, 11 failed attempts
+<132>Aug 21 20:15:09 ACCESS-SW-01 IPSLA[11139]: IPSLA-6-PROBE_LATENCY: RTT probe to 203.0.113.102 exceeded threshold: 111ms (threshold: 100ms)
+<129>Aug 21 20:15:10 WAN-RTR-01 FIREWALL[12091]: FIREWALL-1-ATTACK_DETECTED: data exfiltration detected from 4.4.4.99 to 10.0.1.12:143
+<132>Aug 21 20:15:10 MPLS-PE-02 OSPF[14678]: OSPF-5-ADJCHG: Process 1, Nbr 10.0.10.207 on GigabitEthernet0/0/0 from LOADING to FULL, Loading Done
+<134>Aug 21 20:15:10 CORE-RTR-01 SYSTEM[15334]: Unknown event type
+<134>Aug 21 20:15:10 WAN-RTR-02 SYS[1203]: SYS-6-CPU_USAGE: CPU utilization for 5 seconds: 96%; one minute: 91%; five minutes: 86%
+<130>Aug 21 20:15:10 MPLS-PE-01 SEC_LOGIN[14105]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 172.31.1.143, 7 failed attempts
+<129>Aug 21 20:15:11 WAN-RTR-02 FIREWALL[24952]: FIREWALL-1-ATTACK_DETECTED: brute force detected from 4.4.4.63 to 4.4.4.175:3389
+<132>Aug 21 20:15:11 EDGE-RTR-01 IPSLA[29047]: IPSLA-6-PROBE_LATENCY: RTT probe to 203.0.113.115 exceeded threshold: 135ms (threshold: 100ms)
+<134>Aug 21 20:15:11 WAN-RTR-01 SYS[20611]: SYS-6-CPU_USAGE: CPU utilization for 5 seconds: 60%; one minute: 55%; five minutes: 50%
+<129>Aug 21 20:15:11 EDGE-RTR-02 FIREWALL[21757]: FIREWALL-1-ATTACK_DETECTED: vulnerability scan detected from 198.51.100.232 to 172.16.10.159:80
+<133>Aug 21 20:15:11 ACCESS-SW-01 ROUTING[6159]: ROUTING-5-ROUTE_CHANGE: Route 8.8.8.0/24 via 10.0.1.92 added to routing table
+<134>Aug 21 20:15:12 CORE-RTR-02 SSH2[22893]: SSH2_SESSION: SSH2 Session request from 9.9.9.60 (tty = 0) using crypto cipher 'aes256-ctr', hmac 'hmac-sha2-256' Succeeded for user 'scanner'
+<134>Aug 21 20:15:12 ACCESS-SW-02 SYSTEM[21767]: Unknown event type
+<134>Aug 21 20:15:12 DIST-SW-02 SYS[19846]: SYS-6-MEM_USAGE: Memory utilization: 80% used
+<130>Aug 21 20:15:12 WAN-RTR-02 SEC_LOGIN[13733]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 9.9.9.135, 12 failed attempts
+<132>Aug 21 20:15:12 DIST-SW-01 OSPF[18100]: OSPF-5-ADJCHG: Process 1, Nbr 172.31.1.181 on GigabitEthernet0/0/0 from FULL to DOWN, Neighbor Down: Dead timer expired
+<134>Aug 21 20:15:13 WAN-RTR-02 SYSTEM[11673]: Unknown event type
+<129>Aug 21 20:15:13 EDGE-RTR-02 FIREWALL[11807]: FIREWALL-1-ATTACK_DETECTED: botnet C&C detected from 8.8.8.47 to 10.10.1.118:993
+<131>Aug 21 20:15:13 WAN-RTR-01 LINEPROTO[29998]: LINEPROTO-5-UPDOWN: Line protocol on Interface Tunnel1, changed state to up
+<133>Aug 21 20:15:13 DIST-SW-02 ROUTING[23546]: ROUTING-5-ROUTE_CHANGE: Route 172.16.1.0/24 via 172.16.10.127 added to routing table
+<133>Aug 21 20:15:13 MPLS-PE-02 ROUTING[17202]: ROUTING-5-ROUTE_CHANGE: Route 8.8.8.0/24 via 10.10.1.184 added to routing table
+<130>Aug 21 20:15:14 WAN-RTR-02 SEC_LOGIN[29081]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 192.168.10.44, 10 failed attempts
+<129>Aug 21 20:15:14 MPLS-PE-02 FIREWALL[13962]: FIREWALL-1-ATTACK_DETECTED: data exfiltration detected from 10.0.10.46 to 172.16.10.116:23
+<132>Aug 21 20:15:14 DIST-SW-01 IPSLA[20399]: IPSLA-6-PROBE_LATENCY: RTT probe to 4.4.4.229 exceeded threshold: 519ms (threshold: 100ms)
+<132>Aug 21 20:15:14 WAN-RTR-01 IPSLA[22461]: IPSLA-6-PROBE_LATENCY: RTT probe to 198.51.100.67 exceeded threshold: 309ms (threshold: 100ms)
+<134>Aug 21 20:15:14 WAN-RTR-02 SYS[3676]: SYS-6-CPU_USAGE: CPU utilization for 5 seconds: 67%; one minute: 62%; five minutes: 57%
+<132>Aug 21 20:15:15 CORE-RTR-02 IPSLA[14889]: IPSLA-6-PROBE_LATENCY: RTT probe to 10.10.1.123 exceeded threshold: 190ms (threshold: 100ms)
+<134>Aug 21 20:15:15 ACCESS-SW-02 SYS[11908]: SYS-6-MEM_USAGE: Memory utilization: 95% used
+<134>Aug 21 20:15:15 MPLS-PE-01 SYS[12441]: SYS-6-CPU_USAGE: CPU utilization for 5 seconds: 90%; one minute: 85%; five minutes: 80%
+<130>Aug 21 20:15:15 WAN-RTR-02 SEC_LOGIN[12631]: SEC_LOGIN-4-LOGIN_FAILED: Login failed for user from 10.0.10.249, 5 failed attempts
+<131>Aug 21 20:15:15 WAN-RTR-01 BGP[29184]: BGP-5-ADJCHANGE: neighbor 8.8.8.8 (AS1299) Up
+<129>Aug 21 20:15:16 WAN-RTR-02 FIREWALL[8000]: FIREWALL-1-ATTACK_DETECTED: lateral movement detected from 1.1.1.40 to 192.168.10.156:1433
+<133>Aug 21 20:15:16 MPLS-PE-02 ROUTING[7818]: ROUTING-5-ROUTE_CHANGE: Route 8.8.8.0/24 via 172.31.1.192 added to routing table
+<131>Aug 21 20:15:16 WAN-RTR-01 BGP[23322]: BGP-3-NOTIFICATION_SENT: sent to neighbor 1.1.1.1 (AS64515) 4/0 (hold time expired) 0 bytes
+<134>Aug 21 20:15:16 EDGE-RTR-01 SSH2[16420]: SSH2_SESSION: SSH2 Session request from 192.168.100.52 (tty = 0) using crypto cipher 'aes256-ctr', hmac 'hmac-sha2-256' Succeeded for user 'security'
+<134>Aug 21 20:15:16 ACCESS-SW-01 SYS[19062]: SYS-6-CPU_USAGE: CPU utilization for 5 seconds: 66%; one minute: 61%; five minutes: 56%
+<132>Aug 21 20:15:17 CORE-RTR-02 IPSLA[4862]: IPSLA-6-PROBE_LATENCY: RTT probe to 10.0.10.183 exceeded threshold: 543ms (threshold: 100ms)
